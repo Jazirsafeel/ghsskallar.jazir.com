@@ -238,7 +238,7 @@ a.more:hover {
 	background: url(images/middle_home.png) no-repeat
 }
 
-#middle_subpage { 
+#middle_subpage2 { 
 	clear: both;
 	width: 820px;
 	height: 207px;
@@ -247,7 +247,7 @@ a.more:hover {
 	font-family: Georgia, "Times New Roman", Times, serif;
 	background: url(images/middle_subpage.png) no-repeat;
 }
-#middle_subpage2 { 
+#middle_subpage { 
 	clear: both;
 	width: 820px;
 	height: 207px;
